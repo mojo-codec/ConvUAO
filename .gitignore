@@ -1,0 +1,8 @@
+build/
+build_R/
+_build/
+_build_R/
+.kdev4/
+*.a
+*.so
+*.o
